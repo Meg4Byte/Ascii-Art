@@ -1,6 +1,7 @@
 
 # Ascii-Art
-Repo dedicated to glorious movement of ASCII
+Repo dedicated to glorious movement of ASCII art
+
 
 <p align="center">
   <img src="https://github.com/Meg4Byte/Ascii-Art/assets/121357383/2ce77570-18e4-43a8-9767-a8095b438849" width="45%" />
